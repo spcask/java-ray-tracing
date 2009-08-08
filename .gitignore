@@ -1,0 +1,5 @@
+*.sw?
+.DS_Store
+.ant-targets-build.xml
+dist/
+build/
